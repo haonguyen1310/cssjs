@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://toyotaquasudung.com/' target='_blank'><img src='http://toyotaquasudung.com/wp-content/uploads/2017/05/6-3.jpg' width='500px'/><br/>Toyota qua sử dụng</a>. Liên hệ: 0909 656 882. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://toyotaquasudung.com/' target='_blank'><img src='http://toyotaquasudung.com/wp-content/uploads/2014/09/DSC08141-Medium.jpg' width='500px'/><br/>Toyota qua sử dụng</a>. Liên hệ: 0909 656 882. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
